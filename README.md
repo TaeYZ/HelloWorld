@@ -73,3 +73,5 @@ public class MainActivity extends AppCompatActivity {
 截图：
 
 ![HelloWorld](https://img-blog.csdnimg.cn/20190318145217728.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWlxaTgzNzg=,size_16,color_FFFFFF,t_70)
+
+![activity](https://img-blog.csdnimg.cn/20190330164601383.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWlxaTgzNzg=,size_16,color_FFFFFF,t_70)
